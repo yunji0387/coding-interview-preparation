@@ -3,6 +3,8 @@
 ## Resources
 - An informative breakdown of various [technical questions](https://www.indeed.com/career-advice/interviewing/common-technical-interview-questions-and-answers) you may be asked in an interview.
 - Helpful information about [preparing for an interview](https://www.experis.com/en/insights/articles/2021/05/25/20-tips-for-great-job-interviews)
+- An article on [how to write pseudocode](https://www.interviewkickstart.com/learn/how-to-write-pseudocode) and some suggested implementations
+- An article called [10 websites to practice coding problems](https://www.zdnet.com/education/computers-tech/practice-coding-problems/), that outlines several different sources that will be helpful when you are preparing for a coding interview
 
 ## Star Technique
 - Situation
